@@ -1,0 +1,8 @@
+{
+    "Employee": "default-user",
+    "PayType": "USA Regular Payments",
+    "PaymentType": "Direct deposit",
+    "Account": "LIBERTY FIRST CREDIT UNION ******1234",
+    "AccountNumber": "******1234",
+    "Distribution": "Net Pay"
+}

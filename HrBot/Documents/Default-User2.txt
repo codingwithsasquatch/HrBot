@@ -1,0 +1,8 @@
+{
+    "Employee": "default-user",
+    "PayType": "MIP/SIP Payments",
+    "PaymentType": "Direct deposit",
+    "Account": "CENTRIS FEDERAL CREDIT UNION ******4567",
+    "AccountNumber": "******4567",
+    "Distribution": "1,800.00"
+}

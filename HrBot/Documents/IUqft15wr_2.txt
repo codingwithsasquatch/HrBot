@@ -1,0 +1,8 @@
+{
+    "Employee": "IUqfSt15wr",
+    "PayType": "MIP/SIP Payments",
+    "PaymentType": "Direct deposit",
+    "Account": "FIRST NATIONAL BANK OF OMAHA ******5678",
+    "AccountNumber": "******5678",
+    "Distribution": "1,800.00"
+}
